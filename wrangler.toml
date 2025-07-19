@@ -1,4 +1,4 @@
-name = "sub-worker"
+name = "'morning-wood-359c"
 main = "_worker.js"
 compatibility_date = "2025-07-07"
 keep_vars = true
